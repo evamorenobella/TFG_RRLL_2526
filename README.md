@@ -93,7 +93,13 @@
       <p><strong>Fecha de entrega:</strong> 26 de enero</p>
       <p><strong>Monográfico:</strong></p>
       <ul>
-        <li>Borrador de la introducción y objetivos, así como del apartado de metodología (Estrategia de búsqueda bibliográfica, bases de datos, palabras clave), siguiendo la plantilla estándar.</li>
+            <li>
+              Borrador de la introducción y objetivos, así como del apartado de metodología
+              (Estrategia de búsqueda bibliográfica,
+              <a href="https://biblioteca.ugr.es/biblioteca-electronica/bases-datos" target="_blank" rel="noopener noreferrer">
+                bases de datos
+              </a>, palabras clave), siguiendo la plantilla estándar.
+            </li>
         <li>Lista/tablas con la literatura revisada hasta ahora (autor, año, tipo de estudio, muestra, resultados clave).</li>
       </ul>
       <p><strong>Portafolio:</strong></p>
