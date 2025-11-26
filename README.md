@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <title>Información TFG 2025/2026</title>
 </head>
 <body>
   <main>
@@ -11,9 +6,7 @@
       <p>
         De acuerdo con los objetivos y contenidos establecidos en las materias de carácter obligatorio y formación básica, los estudiantes deberán realizar, presentar y defender un trabajo-memoria en el que demuestren las competencias específicas asociadas al título, adquiridas a lo largo de los cuatro años de estudios. La dirección y tutorización de estos trabajos se realizará por profesorado universitario.
       </p>
-    </section>
-
-    <section>
+        <section>
       <h2>Tipologías de TFG</h2>
       <ul>
         <li>
@@ -28,17 +21,13 @@
       <p>
         El TFG tendrá un máximo de 5500 palabras quedando excluidos de este cómputo la primera página, bibliografía o notas al pie.
       </p>
-    </section>
-
-    <section>
+       <section>
       <h2>Defensa del TFG</h2>
       <p>
         El TFG se defenderá ante el tutor que incluirá dicha defensa en la calificación final que otorgue al estudiante. Solamente los estudiantes propuestos a Matrícula de Honor, defenderán el TFG ante un Tribunal.
       </p>
       <p>Debéis preparar una presentación de 10 minutos como máximo.</p>
-    </section>
-
-    <section>
+      <section>
       <h2>Uso de IA</h2>
       <p>
         Tened cuidado con el uso de IA en vuestros trabajos; debe ser una herramienta y que vuestro tutor conozca qué partes de vuestro TFG están apoyados con IA. En
@@ -47,9 +36,7 @@
         </a>
         tenéis varias guías al respecto.
       </p>
-    </section>
-
-    <section>
+       <section>
       <h2>Criterios de evaluación de los TFG</h2>
       <ul>
         <li>Memoria y trabajo continuo: <strong>60%</strong></li>
@@ -64,9 +51,7 @@
           https://laborales.ugr.es/docencia/trabajo-fin-grado/recursos-ayuda
         </a>
       </p>
-    </section>
-
-    <section>
+      <section>
       <h2>Plazos de entrega</h2>
       <ul>
         <li>
@@ -83,8 +68,6 @@
       <p>
         El TFG debe ser entregado al tutor al menos 15 días antes del plazo de entrega oficial.
       </p>
-    </section>
-
     <section>
       <h2>Cronograma propuesto para la tutorización de TFG</h2>
 
