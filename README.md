@@ -141,7 +141,7 @@
       </ul>
     </li>
     <li>
-      <h3>Versión final para corrección profunda</h3>
+      <h3>Versión final para corrección (Entrega a la tutora)</h3>
       <p><strong>Fecha de entrega:</strong> 25 de mayo</p>
       <p><strong>Monográfico:</strong></p>
       <p>Versión completa con formato definitivo.</p>
@@ -156,6 +156,57 @@
       <p>Envío de las diapositivas o material de presentación a la tutora con 24 de antelación a la defensa.</p>
     </li>
   </ol>
+</section>
+        <section>
+  <h2>Fechas importantes</h2>
+  <table>
+    <caption>Fechas importantes</caption>
+    <thead>
+      <tr>
+        <th>Fecha</th>
+        <th>Hito</th>
+        <th>Convocatoria</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>12 de diciembre</td>
+        <td>Propuesta inicial</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>26 de enero</td>
+        <td>Borradores iniciales en la plantilla</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>2 de marzo</td>
+        <td>Avance 1 (30–40% del trabajo)</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>20 de abril</td>
+        <td>Avance 2 (versión casi completa)</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>25 de mayo</td>
+        <td>Versión final para corrección (Entrega a la tutora)</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>9 de junio de 2026</td>
+        <td>Entrega calificación del tutor y documentación del TFG</td>
+        <td>Ordinaria</td>
+      </tr>
+      <tr>
+        <td>3 de julio de 2026</td>
+        <td>Entrega calificación del tutor y documentación del TFG</td>
+        <td>Extraordinaria</td>
+      </tr>
+    </tbody>
+  </table>
+  <p><em>El TFG debe ser entregado al tutor al menos 15 días antes del plazo de entrega oficial.</em></p>
 </section>
 <section>
   <h2>Materiales de Referencia Utilizados</h2>
