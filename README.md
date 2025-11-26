@@ -6,6 +6,7 @@
       <p>
         De acuerdo con los objetivos y contenidos establecidos en las materias de carácter obligatorio y formación básica, los estudiantes deberán realizar, presentar y defender un trabajo-memoria en el que demuestren las competencias específicas asociadas al título, adquiridas a lo largo de los cuatro años de estudios. La dirección y tutorización de estos trabajos se realizará por profesorado universitario.
       </p>
+      <section>
         <section>
       <h2>Tipologías de TFG</h2>
       <ul>
@@ -69,119 +70,97 @@
         El TFG debe ser entregado al tutor al menos 15 días antes del plazo de entrega oficial.
       </p>
     <section>
-      <h2>Cronograma propuesto para la tutorización de TFG</h2>
-
-      <ol>
-        <li>
-          <h3>Propuesta inicial</h3>
-          <p><strong>Fecha de entrega:</strong> 12 de diciembre</p>
-
-          <p><strong>Monográfico:</strong></p>
-          <p>
-            Entregar 1-2 páginas con: tema elegido y justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema), objetivo general y cinco referencias iniciales para trabajar (en formato APA).
-          </p>
-
-          <p><strong>Portafolio:</strong></p>
-          <p>
-            Entregar 1-2 páginas con: justificación de por qué elige portafolio, autoevaluación muy breve de las 8 competencias, lista provisional de evidencias que cree que puede aportar (trabajos, prácticas, etc.). Creación del Google Site y envío del enlace.
-          </p>
-        </li>
-
-        <li>
-          <h3>Borradores iniciales en la plantilla</h3>
-          <p><strong>Fecha de entrega:</strong> 26 de enero</p>
-
-          <p><strong>Monográfico:</strong></p>
-          <ul>
-            <li>Borrador de la introducción y objetivos, así como del apartado de metodología (Estrategia de búsqueda bibliográfica, bases de datos, palabras clave), siguiendo la plantilla estándar.</li>
-            <li>Lista/tablas con la literatura revisada hasta ahora (autor, año, tipo de estudio, muestra, resultados clave).</li>
-          </ul>
-
-          <p><strong>Portafolio:</strong></p>
-          <ul>
-            <li>Tabla donde se indique, para cada competencia, qué evidencias definitivas se utilizarán (mínimo 1 por competencia).</li>
-            <li>Breve descripción de cada una de ellas y por qué las ha elegido.</li>
-          </ul>
-        </li>
-
-        <li>
-          <h3>Avance 1 (aprox. 30-40% del trabajo)</h3>
-          <p><strong>Fecha de entrega:</strong> 2 de marzo</p>
-
-          <p><strong>Monográfico:</strong></p>
-          <ul>
-            <li>Borrador de introducción y marco teórico (unas 2000–2500 palabras).</li>
-            <li>Breve esquema de los posibles resultados y/o borrador de los mismos.</li>
-            <li>Literatura revisada: como mínimo 10 artículos.</li>
-          </ul>
-
-          <p><strong>Portafolio:</strong></p>
-          <ul>
-            <li>Memoria: redactadas al menos 5 competencias con la descripción completa (logros, puntos fuertes/débiles, justificación, etc.).</li>
-          </ul>
-
-          <p><strong>Portafolio digital:</strong></p>
-          <ul>
-            <li>Site ya estructurado con las 8 competencias.</li>
-            <li>Subidas al menos las evidencias de esas 3–4 competencias.</li>
-          </ul>
-        </li>
-
-        <li>
-          <h3>Avance 2 (versión casi completa)</h3>
-          <p><strong>Fecha de entrega:</strong> 20 de abril</p>
-
-          <p><strong>Monográfico:</strong></p>
-          <ul>
-            <li>Borrador casi completo (80 %):</li>
-            <li>Introducción y revisión teórica prácticamente cerradas.</li>
-            <li>Apartado de “resultados” de la revisión (organización de hallazgos, tablas/figuras si procede).</li>
-            <li>Al menos un esquema o borrador de las conclusiones preliminares.</li>
-            <li>Referencias.</li>
-          </ul>
-
-          <p><strong>Portafolio:</strong></p>
-          <ul>
-            <li>Memoria: Las 8 competencias ya redactadas.</li>
-            <li>Conclusiones preliminares sobre qué ha aprendido en el grado y puntos a mejorar.</li>
-          </ul>
-
-          <p><strong>Portafolio digital:</strong></p>
-          <ul>
-            <li>Todas las evidencias subidas y ordenadas.</li>
-            <li>Anexo de ficheros listado en la memoria.</li>
-          </ul>
-        </li>
-
-        <li>
-          <h3>Versión final para corrección profunda</h3>
-          <p><strong>Fecha de entrega:</strong> 25 de mayo</p>
-
-          <p><strong>Monográfico:</strong></p>
-          <p>Versión completa con formato definitivo.</p>
-
-          <p><strong>Portafolio:</strong></p>
-          <p>Versión completa con formato definitivo.</p>
-
-          <p><strong>Portafolio digital definitivo.</strong></p>
-        </li>
-
-        <li>
-          <h3>Defensa</h3>
-          <p><strong>Fecha:</strong> Por determinar (finales de mayo, principios de junio).</p>
-          <p>Presentación de 10 minutos y debate/preguntas.</p>
-          <p>Envío de las diapositivas o material de presentación a la tutora con 24 de antelación a la defensa.</p>
-        </li>
-      </ol>
-    </section>
-
-    <section>
-      <h2>Materiales de Referencia Utilizados</h2>
+  <h2>Cronograma propuesto para la tutorización de TFG</h2>
+  <ol>
+    <li>
+      <h3>Propuesta inicial</h3>
+      <p><strong>Fecha de entrega:</strong> 12 de diciembre</p>
+      <p><strong>Monográfico:</strong></p>
+      <p>
+        Entregar 1-2 páginas con: tema elegido y justificación de por qué lo ha elegido (i.e., breve introducción y contextualización del tema), objetivo general y cinco referencias iniciales para trabajar (en formato APA).
+      </p>
+      <p><strong>Portafolio:</strong></p>
+      <p>
+        Entregar 1-2 páginas con: justificación de por qué elige portafolio, autoevaluación muy breve de las 8 competencias, lista provisional de evidencias que cree que puede aportar (trabajos, prácticas, etc.). Creación del Google Site y envío del enlace.
+      </p>
+    </li>
+    <li>
+      <h3>Borradores iniciales en la plantilla</h3>
+      <p><strong>Fecha de entrega:</strong> 26 de enero</p>
+      <p><strong>Monográfico:</strong></p>
       <ul>
-        <li>Guía docente de la asignatura TFG. Grado en RRLL</li>
-        <li>Materiales disponibles en el curso de la asignatura TFG en PRADO.</li>
+        <li>Borrador de la introducción y objetivos, así como del apartado de metodología (Estrategia de búsqueda bibliográfica, bases de datos, palabras clave), siguiendo la plantilla estándar.</li>
+        <li>Lista/tablas con la literatura revisada hasta ahora (autor, año, tipo de estudio, muestra, resultados clave).</li>
       </ul>
-    </section>
-  </main>
-</body>
-</html>
+      <p><strong>Portafolio:</strong></p>
+      <ul>
+        <li>Tabla donde se indique, para cada competencia, qué evidencias definitivas se utilizarán (mínimo 1 por competencia).</li>
+        <li>Breve descripción de cada una de ellas y por qué las ha elegido.</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Avance 1 (aprox. 30-40% del trabajo)</h3>
+      <p><strong>Fecha de entrega:</strong> 2 de marzo</p>
+      <p><strong>Monográfico:</strong></p>
+      <ul>
+        <li>Borrador de introducción y marco teórico (unas 2000–2500 palabras).</li>
+        <li>Breve esquema de los posibles resultados y/o borrador de los mismos.</li>
+        <li>Literatura revisada: como mínimo 10 artículos.</li>
+      </ul>
+      <p><strong>Portafolio:</strong></p>
+      <ul>
+        <li>Memoria: redactadas al menos 5 competencias con la descripción completa (logros, puntos fuertes/débiles, justificación, etc.).</li>
+      </ul>
+      <p><strong>Portafolio digital:</strong></p>
+      <ul>
+        <li>Site ya estructurado con las 8 competencias.</li>
+        <li>Subidas al menos las evidencias de esas 3–4 competencias.</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Avance 2 (versión casi completa)</h3>
+      <p><strong>Fecha de entrega:</strong> 20 de abril</p>
+      <p><strong>Monográfico:</strong></p>
+      <ul>
+        <li>Borrador casi completo (80 %):</li>
+        <li>Introducción y revisión teórica prácticamente cerradas.</li>
+        <li>Apartado de “resultados” de la revisión (organización de hallazgos, tablas/figuras si procede).</li>
+        <li>Al menos un esquema o borrador de las conclusiones preliminares.</li>
+        <li>Referencias.</li>
+      </ul>
+      <p><strong>Portafolio:</strong></p>
+      <ul>
+        <li>Memoria: Las 8 competencias ya redactadas.</li>
+        <li>Conclusiones preliminares sobre qué ha aprendido en el grado y puntos a mejorar.</li>
+      </ul>
+      <p><strong>Portafolio digital:</strong></p>
+      <ul>
+        <li>Todas las evidencias subidas y ordenadas.</li>
+        <li>Anexo de ficheros listado en la memoria.</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Versión final para corrección profunda</h3>
+      <p><strong>Fecha de entrega:</strong> 25 de mayo</p>
+      <p><strong>Monográfico:</strong></p>
+      <p>Versión completa con formato definitivo.</p>
+      <p><strong>Portafolio:</strong></p>
+      <p>Versión completa con formato definitivo.</p>
+      <p><strong>Portafolio digital definitivo.</strong></p>
+    </li>
+    <li>
+      <h3>Defensa</h3>
+      <p><strong>Fecha:</strong> Por determinar (finales de mayo, principios de junio).</p>
+      <p>Presentación de 10 minutos y debate/preguntas.</p>
+      <p>Envío de las diapositivas o material de presentación a la tutora con 24 de antelación a la defensa.</p>
+    </li>
+  </ol>
+</section>
+<section>
+  <h2>Materiales de Referencia Utilizados</h2>
+  <ul>
+    <li>Guía docente de la asignatura TFG. Grado en RRLL</li>
+    <li>Materiales disponibles en el curso de la asignatura TFG en PRADO.</li>
+  </ul>
+</section>
+
