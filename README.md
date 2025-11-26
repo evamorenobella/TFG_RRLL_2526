@@ -207,6 +207,7 @@
     </tbody>
   </table>
   <p><em>El TFG debe ser entregado al tutor al menos 15 días antes del plazo de entrega oficial.</em></p>
+  <p><em>Recordad que para llevar un buen seguimiento de vuestro TFG, debéis asistir al menos a 3 tutorías a lo largo del curso</em></p>
 </section>
 <section>
   <h2>Materiales de Referencia Utilizados</h2>
