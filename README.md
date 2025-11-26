@@ -37,6 +37,9 @@
           https://laborales.ugr.es/docencia/trabajo-fin-grado/recursos-ayuda
         </a>
         tenéis varias guías al respecto.
+        <a href="https://laborales.ugr.es/sites/centros/rlaborales/public/ficheros/OA%20y%20TFG/PautasIA.pdf" target="_blank" rel="noopener noreferrer">
+          Guía de Buenas Prácticas TFG-IA
+          </a>
       </p>
        <section>
       <h2>Criterios de evaluación de los TFG</h2>
