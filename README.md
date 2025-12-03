@@ -41,6 +41,7 @@
           Guía de Buenas Prácticas TFG-IA
           </a>
       </p>
+        Asimismo, me debéis entregar la [declaración de uso de IA](https://docs.google.com/document/d/1429HgIiPFjtrnuWjK2_O393YoxhOp4B0/edit?usp=sharing&ouid=101524530347639054232&rtpof=true&sd=true) junto al TFG 
        <section>
       <h2>Criterios de evaluación de los TFG</h2>
       <ul>
