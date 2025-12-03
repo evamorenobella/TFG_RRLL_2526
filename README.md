@@ -2,7 +2,7 @@
 <a href="https://laborales.ugr.es/docencia/trabajo-fin-grado" target="_blank" rel="noopener noreferrer">
           https://laborales.ugr.es/docencia/trabajo-fin-grado
 </a>
-        (Grado en RRLL-RRHH) de la profesora Eva Moreno Bella  
+(Grado en RRLL-RRHH) de la profesora Eva Moreno Bella  
 </head>
 <body>
   <main>
