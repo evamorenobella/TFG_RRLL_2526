@@ -40,8 +40,12 @@
         <a href="https://laborales.ugr.es/sites/centros/rlaborales/public/ficheros/OA%20y%20TFG/PautasIA.pdf" target="_blank" rel="noopener noreferrer">
           Guía de Buenas Prácticas TFG-IA
           </a>
-      </p>
-        Asimismo, me debéis entregar la [declaración de uso de IA](https://docs.google.com/document/d/1429HgIiPFjtrnuWjK2_O393YoxhOp4B0/edit?usp=sharing&ouid=101524530347639054232&rtpof=true&sd=true) junto al TFG 
+      <p>
+  Asimismo, me debéis entregar la 
+  <a href="https://docs.google.com/document/d/1429HgIiPFjtrnuWjK2_O393YoxhOp4B0/edit?usp=sharing&ouid=101524530347639054232&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">
+    declaración de uso de IA
+  </a>
+  junto al TFG.
        <section>
       <h2>Criterios de evaluación de los TFG</h2>
       <ul>
