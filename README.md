@@ -226,3 +226,51 @@
   </ul>
 </section>
 
+<h2>Artículos sobre Deshumanización Organizacional</h2>
+<ul>
+  <li>
+    <a href="https://www.redalyc.org/journal/2313/231369562002/231369562002.pdf" target="_blank" rel="noopener noreferrer">
+      Artículo 1
+    </a>
+  </li>
+  <li>
+    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.2944" target="_blank" rel="noopener noreferrer">
+      Artículo 2
+    </a>
+  </li>
+  <li>
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4173804/" target="_blank" rel="noopener noreferrer">
+      Artículo 3
+    </a>
+  </li>
+  <li>
+    <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12493" target="_blank" rel="noopener noreferrer">
+      Artículo 4
+    </a>
+  </li>
+</ul>
+
+<h2>Artículos sobre Género y Liderazgo</h2>
+<ul>
+  <li>
+    <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.01400/full" target="_blank" rel="noopener noreferrer">
+      Artículo sobre género y liderazgo 1
+    </a>
+  </li>
+  <li>
+    <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-1379(199601)17:1%3C33::AID-JOB778%3E3.0.CO;2-F?casa_token=7Y5-HlITAYoAAAAA:SgKy1YOBwyApCm9Af0TBp5a0IVpwRMOx3QTUQqvBQVPVllZwlbslyzslHLLCHrk4G7tvKvSqwRu5FOQ" target="_blank" rel="noopener noreferrer">
+      Artículo sobre género y liderazgo 2
+    </a>
+  </li>
+  <li>
+    <a href="https://psycnet.apa.org/record/2010-26139-001" target="_blank" rel="noopener noreferrer">
+      Artículo sobre género y liderazgo 3 
+    </a>
+  </li>
+  <li>
+    <a href="https://spssi.onlinelibrary.wiley.com/doi/abs/10.1111/0022-4537.00233?casa_token=AaS98HimemQAAAAA:S7bcz7wlgfX8iwqXtNfHyy4_9uPQOl1Pce6ROnegQZQQCEqpGVm-3H1ZRUbuPzhTkzzTO0YHZ7vUR2w" target="_blank" rel="noopener noreferrer">
+      Artículo sobre género y liderazgo 4 
+    </a>
+    <p><em>Recordad que para acceder a algunos artículos necesitaréis estar conectadas a Internet desde la facultad o con la VPN de la UGR si estáis en casa</em></p>
+  </li>
+</ul>
